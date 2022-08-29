@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Domain\\arquetipo.Domain.csproj": {}
+  },
+  "projects": {
+    "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Domain\\arquetipo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Domain\\arquetipo.Domain.csproj",
+        "projectName": "arquetipo.Domain",
+        "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Domain\\arquetipo.Domain.csproj",
+        "packagesPath": "C:\\Users\\HOGAR\\.nuget\\packages\\",
+        "outputPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HOGAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj": {
+                "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj",
+        "projectName": "arquetipo.Entity",
+        "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj",
+        "packagesPath": "C:\\Users\\HOGAR\\.nuget\\packages\\",
+        "outputPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HOGAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

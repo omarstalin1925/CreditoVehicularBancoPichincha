@@ -1,0 +1,444 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Test\\arquetipo.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.API\\arquetipo.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.API\\arquetipo.API.csproj",
+        "projectName": "arquetipo.API",
+        "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.API\\arquetipo.API.csproj",
+        "packagesPath": "C:\\Users\\HOGAR\\.nuget\\packages\\",
+        "outputPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HOGAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj": {
+                "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj"
+              },
+              "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Infrastructure\\arquetipo.Infrastructure.csproj": {
+                "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Infrastructure\\arquetipo.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Domain\\arquetipo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Domain\\arquetipo.Domain.csproj",
+        "projectName": "arquetipo.Domain",
+        "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Domain\\arquetipo.Domain.csproj",
+        "packagesPath": "C:\\Users\\HOGAR\\.nuget\\packages\\",
+        "outputPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HOGAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj": {
+                "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj",
+        "projectName": "arquetipo.Entity",
+        "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj",
+        "packagesPath": "C:\\Users\\HOGAR\\.nuget\\packages\\",
+        "outputPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HOGAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Infrastructure\\arquetipo.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Infrastructure\\arquetipo.Infrastructure.csproj",
+        "projectName": "arquetipo.Infrastructure",
+        "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Infrastructure\\arquetipo.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\HOGAR\\.nuget\\packages\\",
+        "outputPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HOGAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Domain\\arquetipo.Domain.csproj": {
+                "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Domain\\arquetipo.Domain.csproj"
+              },
+              "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj": {
+                "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj"
+              },
+              "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Repository\\arquetipo.Repository.csproj": {
+                "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Repository\\arquetipo.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Repository\\arquetipo.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Repository\\arquetipo.Repository.csproj",
+        "projectName": "arquetipo.Repository",
+        "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Repository\\arquetipo.Repository.csproj",
+        "packagesPath": "C:\\Users\\HOGAR\\.nuget\\packages\\",
+        "outputPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HOGAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj": {
+                "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Test\\arquetipo.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Test\\arquetipo.Test.csproj",
+        "projectName": "arquetipo.Test",
+        "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Test\\arquetipo.Test.csproj",
+        "packagesPath": "C:\\Users\\HOGAR\\.nuget\\packages\\",
+        "outputPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HOGAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.API\\arquetipo.API.csproj": {
+                "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.API\\arquetipo.API.csproj"
+              },
+              "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Domain\\arquetipo.Domain.csproj": {
+                "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Domain\\arquetipo.Domain.csproj"
+              },
+              "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj": {
+                "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Entity\\arquetipo.Entity.csproj"
+              },
+              "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Infrastructure\\arquetipo.Infrastructure.csproj": {
+                "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Infrastructure\\arquetipo.Infrastructure.csproj"
+              },
+              "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Repository\\arquetipo.Repository.csproj": {
+                "projectPath": "D:\\BANCO PICHINCHA\\Caso Practico\\arquetipo-netcore\\arquetipo.Repository\\arquetipo.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

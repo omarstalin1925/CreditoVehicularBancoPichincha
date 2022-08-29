@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e5e3b398-ff31-4be5-a3ff-08732bb793b6": {
+      "ProjectGuid": "e5e3b398-ff31-4be5-a3ff-08732bb793b6",
+      "DisplayName": "arquetipo.Repository",
+      "ColorIndex": 0
+    },
+    "d89e89a4-e506-404b-bc2b-00fb94bf316a": {
+      "ProjectGuid": "d89e89a4-e506-404b-bc2b-00fb94bf316a",
+      "DisplayName": "arquetipo.Entity",
+      "ColorIndex": 1
+    },
+    "fbe56157-2baa-4398-a247-c4aaeef3d00f": {
+      "ProjectGuid": "fbe56157-2baa-4398-a247-c4aaeef3d00f",
+      "DisplayName": "arquetipo.API",
+      "ColorIndex": 2
+    },
+    "a81839bd-a15f-434f-9007-34001ceb5066": {
+      "ProjectGuid": "a81839bd-a15f-434f-9007-34001ceb5066",
+      "DisplayName": "arquetipo.Infrastructure",
+      "ColorIndex": 3
+    },
+    "f080f09b-f385-4eab-b762-9c2b7bc21b46": {
+      "ProjectGuid": "f080f09b-f385-4eab-b762-9c2b7bc21b46",
+      "DisplayName": "arquetipo.Domain",
+      "ColorIndex": 4
+    },
+    "bc1d8fbb-f86e-4483-9950-e78e7c8630e5": {
+      "ProjectGuid": "bc1d8fbb-f86e-4483-9950-e78e7c8630e5",
+      "DisplayName": "arquetipo.Test",
+      "ColorIndex": 5
+    },
+    "69b1d194-2bbe-4eed-946d-7f35bd2d9e85": {
+      "ProjectGuid": "69b1d194-2bbe-4eed-946d-7f35bd2d9e85",
+      "DisplayName": "arquetipo.testing",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "arquetipo.Domain/1.0.0": {
+        "dependencies": {
+          "arquetipo.Entity": "1.0.0"
+        },
+        "runtime": {
+          "arquetipo.Domain.dll": {}
+        }
+      },
+      "arquetipo.Entity/1.0.0": {
+        "runtime": {
+          "arquetipo.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arquetipo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "arquetipo.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Domain\bin\Debug\net6.0\arquetipo.Domain.deps.json
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Domain\bin\Debug\net6.0\arquetipo.Domain.dll
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Domain\bin\Debug\net6.0\ref\arquetipo.Domain.dll
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Domain\bin\Debug\net6.0\arquetipo.Domain.pdb
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Domain\bin\Debug\net6.0\arquetipo.Entity.dll
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Domain\bin\Debug\net6.0\arquetipo.Entity.pdb
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.csproj.AssemblyReference.cache
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.AssemblyInfoInputs.cache
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.AssemblyInfo.cs
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.csproj.CopyComplete
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.dll
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\ref\arquetipo.Domain.dll
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.pdb
+D:\BANCO PICHINCHA\Caso Practico\arquetipo-netcore\arquetipo.Domain\bin\Debug\net6.0\arquetipo.Domain.deps.json
+D:\BANCO PICHINCHA\Caso Practico\arquetipo-netcore\arquetipo.Domain\bin\Debug\net6.0\arquetipo.Domain.dll
+D:\BANCO PICHINCHA\Caso Practico\arquetipo-netcore\arquetipo.Domain\bin\Debug\net6.0\ref\arquetipo.Domain.dll
+D:\BANCO PICHINCHA\Caso Practico\arquetipo-netcore\arquetipo.Domain\bin\Debug\net6.0\arquetipo.Domain.pdb
+D:\BANCO PICHINCHA\Caso Practico\arquetipo-netcore\arquetipo.Domain\bin\Debug\net6.0\arquetipo.Entity.dll
+D:\BANCO PICHINCHA\Caso Practico\arquetipo-netcore\arquetipo.Domain\bin\Debug\net6.0\arquetipo.Entity.pdb
+D:\BANCO PICHINCHA\Caso Practico\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.csproj.AssemblyReference.cache
+D:\BANCO PICHINCHA\Caso Practico\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BANCO PICHINCHA\Caso Practico\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.AssemblyInfoInputs.cache
+D:\BANCO PICHINCHA\Caso Practico\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.AssemblyInfo.cs
+D:\BANCO PICHINCHA\Caso Practico\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.csproj.CoreCompileInputs.cache
+D:\BANCO PICHINCHA\Caso Practico\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.csproj.CopyComplete
+D:\BANCO PICHINCHA\Caso Practico\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.dll
+D:\BANCO PICHINCHA\Caso Practico\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\ref\arquetipo.Domain.dll
+D:\BANCO PICHINCHA\Caso Practico\arquetipo-netcore\arquetipo.Domain\obj\Debug\net6.0\arquetipo.Domain.pdb
